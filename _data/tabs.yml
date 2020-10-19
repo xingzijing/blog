@@ -9,6 +9,31 @@
   name: Home
   icon: "fas fa-home"
 -
+  name: "About"
+  icon: "fas fa-info"
+  path: tabs
+  url: about
+-
+  name: "Posts"
+  path: tabs
+  url: posts
+  icon: "fas fa-archive"
+-
+  name: "Projects & Demos"
+  path: tabs
+  url: projects
+  icon: "fas fa-play"
+-
+  name: "Publications"
+  path: tabs
+  url: publications
+  icon: "fas fa-book"
+-
+  name: "Music"
+  path: tabs
+  url: music
+  icon: "fas fa-music"
+-
   name: Categories
   icon: "fas fa-stream"
   path: tabs
@@ -18,13 +43,3 @@
   icon: "fas fa-tags"
   path: tabs
   url: tags
--
-  name: "Archives"
-  path: tabs
-  url: archives
-  icon: "fas fa-archive"
--
-  name: "About"
-  icon: "fas fa-info"
-  path: tabs
-  url: about
