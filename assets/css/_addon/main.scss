@@ -232,8 +232,8 @@ $sidebar-display: "sidebar-display";
     display: block;
     width: 6rem;
     height: 6rem;
-    border-radius: 50%;
-    border: 2px solid #b6b6b6;
+    border-radius: 1%;
+    border: .1px solid #b6b6b6;
     overflow: hidden;
     transform: translateZ(0); // fixed the zoom in Safari
     -webkit-transition: border-color 0.35s ease-in-out;
@@ -1399,7 +1399,7 @@ div.post-content .table-wrapper {
   }
 
   #profile-wrapper {
-    margin: 4rem 2rem 3rem 4rem;
+    margin: 2rem 1rem 1.5rem 2rem;
     -ms-flex-direction: column!important;
 
     #avatar {
@@ -1407,8 +1407,8 @@ div.post-content .table-wrapper {
       -ms-flex-pack: normal !important;
       justify-content: normal !important;
       >a {
-        width: 6.2rem;
-        height: 6.2rem;
+        width: 20rem;
+        height: 20rem;
       }
     }
 
