@@ -724,7 +724,7 @@ a {
   .categories &,
   #page-category &,
   #tags &,
-  #archives & {
+  #posts & {
     &:not(:hover) {
       @extend %no-bottom-border;
     }

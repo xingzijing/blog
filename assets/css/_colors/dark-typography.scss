@@ -75,7 +75,7 @@
   --categories-border: rgb(64, 66, 69);
   --categories-hover-bg: rgb(73, 75, 76);
 
-  /* archives */
+  /* posts */
   --timeline-node-bg: rgb(150, 152, 156);
   --timeline-color: rgb(63, 65, 68);
   --timeline-year-dot-color: var(--timeline-color);
@@ -122,7 +122,7 @@
     }
   }
 
-  #archives li:nth-child(odd) {
+  #posts li:nth-child(odd) {
     background-image: linear-gradient(
       to left,
       rgb(26, 26, 30),

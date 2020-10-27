@@ -1,5 +1,5 @@
 ---
-# Style for Archives
+# Style for Posts
 # v2.0
 # https://github.com/cotes2020/jekyll-theme-chirpy
 # © 2019 Cotes Chung
@@ -23,7 +23,7 @@
   font-family: 'Roboto Condensed', sans-serif;
 }
 
-#archives {
+#posts {
   letter-spacing: 0.03rem;
   li {
     font-size: 1.1rem;
@@ -72,7 +72,7 @@
       box-shadow: 0 0 2px 0 #c2c6cc;
       z-index: 1;
     }
-  } // #archives span.lead
+  } // #posts span.lead
 
   .date {
     white-space: nowrap;
@@ -108,7 +108,7 @@
       position: relative;
       left: -.15rem;
     }
-  } // #archives .date
+  } // #posts .date
 
   ul {
     >li {
@@ -135,13 +135,13 @@
     &:last-child>li:last-child::after {
       display: none;
     }
-  } // #archives ul
+  } // #posts ul
 
-} // #archives
+} // #posts
 
 
 @media all and (max-width: 576px) {
-  #archives {
+  #posts {
     margin-top: -1rem;
     ul {
       letter-spacing: 0;
