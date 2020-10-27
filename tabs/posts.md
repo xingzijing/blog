@@ -1,6 +1,6 @@
 ---
 title: Posts
-type: archives
+type: posts
 # The Archives of posts.
 # v2.0
 # https://github.com/cotes2020/jekyll-theme-chirpy
@@ -8,7 +8,7 @@ type: archives
 # MIT License
 ---
 
-<div id="archives" class="pl-xl-2">
+<div id="posts" class="pl-xl-2">
 {% for post in site.posts %}
   {% capture this_year %}{{ post.date | date: "%Y" }}{% endcapture %}
   {% capture pre_year %}{{ post.previous.date | date: "%Y" }}{% endcapture %}
