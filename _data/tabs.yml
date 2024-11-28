@@ -29,9 +29,9 @@
   url: publications
   icon: "fas fa-book"
 -
-  name: "Others"
+  name: "Music"
   path: tabs
-  url: others
+  url: music
   icon: "fas fa-music"
 -
   name: Categories
