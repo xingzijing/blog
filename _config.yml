@@ -14,36 +14,36 @@ lang: en
 
 
 # Change to your timezone › http://www.timezoneconverter.com/cgi-bin/findzone/findzone
-timezone: Europe/Madrid
+timezone: Europe/Stockholm
 
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: Pablo Alonso                          # the main title
+title: XING Zijing                         # the main title
 
-tagline: Ph.D. student and developer at the Music Technology Group, Universitat Pompeu Fabra.  # it will display as the sub-title
+tagline: Welcome to my site! :D  # it will display as the sub-title
 
 description: >-                        # used by seo meta and the atom feed
   A minimal, responsive, and powerful Jekyll theme for presenting professional writing.
 
 # fill in the protocol & hostname for your site, e.g., 'https://username.github.io'
-url: 'https://palonso.github.io'
+url: 'https://github.com/xingzijing'
 
 github:
-  username: palonso             # change to your github username
+  username: xingzijing             # change to your github username
 
-twitter:
-  username: pablo__alonso            # change to your twitter username
+#twitter:
+#  username: name            # change to your twitter username
 
 social:
   # Change to your full name.
   # It will be displayed as the default author of the posts and the copyright owner in the Footer
-  name: Pablo Alonso Jiménez
-  email: pablo.alonso@upf.edu             # change to your email address
+  name: XING Zijing
+  email: xingzijingwork@gmail.com             # change to your email address
   links:
     # The first element serves as the copyright owner's link
-    - https://twitter.com/pablo__alonso      # change to your twitter homepage
-    - https://github.com/palonso       # change to your github homepage
+    #- https://twitter.com/pablo__alonso      # change to your twitter homepage
+    - https://github.com/xingzijing      # change to your github homepage
     # Uncomment below to add more social links
     # - https://www.facebook.com/username
     # - https://www.linkedin.com/in/username
@@ -83,7 +83,7 @@ theme_mode:   # [light|dark]
 img_cdn: ''
 
 # the avatar on sidebar, support local or CORS resources
-avatar: /assets/img/sample/pablo_boyu.jpg   # support internet resources
+avatar: /assets/img/sample/head.jpg   # support internet resources
 
 # boolean type, the global switch for ToC in posts.
 toc: true
