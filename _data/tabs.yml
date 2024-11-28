@@ -29,11 +29,6 @@
   url: publications
   icon: "fas fa-book"
 -
-  name: "Others"
-  path: tabs
-  url: others
-  icon: "fas fa-music"
--
   name: Categories
   icon: "fas fa-stream"
   path: tabs
