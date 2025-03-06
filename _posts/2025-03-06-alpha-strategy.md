@@ -1,7 +1,7 @@
 ---
 title: WorldQuant Alpha中性策略的个股权重
 author: zijing
-date: 2024-03-06
+date: 2025-03-06
 categories: [Study Notes]
 tags: [Quant Fin]
 image: /assets/img/post/20241128/blog1-test.png
