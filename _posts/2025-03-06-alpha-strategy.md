@@ -28,4 +28,5 @@ Decay\_linear(x,n) = \frac{x[date] \times n + x[date-1] \times (n-1) + \cdots + 
 $$
 
 ![3 table.png](https://api.worldquantbrain.com/content/images/21_y9-wzhl0hc08V2_q6iBlIGOg=/249/original/3_table.png)
+
 Source: [How BRAIN platform works](https://platform.worldquantbrain.com/learn/documentation/create-alphas/how-brain-platform-works)
